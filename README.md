@@ -11,4 +11,6 @@ DRISHTI VAANI FRONT END UI
 ![WhatsApp Image 2025-04-26 at 23 55 43_1e0f0a0a](https://github.com/user-attachments/assets/a4228b65-809c-4dd3-9163-0f6fc26b2e8e)
 
 RUN BACKEND FLASK SERVER ON LAPTOP
-"C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-04-26 235459.png"
+
+![Screenshot 2025-04-26 235459](https://github.com/user-attachments/assets/dd2c47bf-a116-4185-9f82-ead5193f0de6)
+
